@@ -1,6 +1,5 @@
 import numpy as np
 
-data=[]
 
 def compute_error_for_line_given_points(b,w,points):
     totalError=0
